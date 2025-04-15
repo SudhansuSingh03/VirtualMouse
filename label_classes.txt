@@ -1,0 +1,5 @@
+hold
+left-click
+move
+right-click
+stop
